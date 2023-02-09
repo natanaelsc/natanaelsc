@@ -9,6 +9,3 @@
 ### ✍️Random Dev Quote
 
 ![Alt](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![Alt](https://visitcount.itsvg.in/api?id=natanaelsc&icon=2&color=0)](https://visitcount.itsvg.in)

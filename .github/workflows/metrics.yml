@@ -45,3 +45,4 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_languages_limit: 20
           plugin_habits_languages_threshold: 0%
+          plugin_languages: yes

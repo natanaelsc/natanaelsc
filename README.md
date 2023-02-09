@@ -9,3 +9,5 @@
 ### ✍️Random Dev Quote
 
 ![Alt](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Metrics](https://raw.githubusercontent.com/natanaelsc/natanaelsc/main/github-metrics.svg)

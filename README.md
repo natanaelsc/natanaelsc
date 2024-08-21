@@ -8,6 +8,6 @@
 
 ![Alt](https://github-profile-trophy.vercel.app/?username=natanaelsc&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+## 📊Roadmap
 
-![Alt](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![roadmap.sh](https://roadmap.sh/card/tall/66bbf46a4e7fe8964e1c6fa4?variant=light)](https://roadmap.sh/u/natanaelsc)

@@ -10,4 +10,4 @@
 
 ## 📊Roadmap
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66bbf46a4e7fe8964e1c6fa4?variant=light)](https://roadmap.sh/u/natanaelsc)
+[![roadmap.sh](https://roadmap.sh/card/tall/66bbf46a4e7fe8964e1c6fa4?variant=dark)](https://roadmap.sh/u/natanaelsc)
